@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+webbuilder/node_modules
+
 # testing
 /coverage
 
